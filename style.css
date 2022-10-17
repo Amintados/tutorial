@@ -1,0 +1,18 @@
+li{
+    list-style-type: none;
+    display: inline;
+}
+#a1{
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+.img1{
+    display: flex;
+  justify-content: end;
+
+}
